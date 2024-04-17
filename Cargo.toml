@@ -2,6 +2,12 @@
 name = "storus"
 version = "0.1.0"
 edition = "2021"
+authors = ["Israel Mwangoka <israelmwangoka@hotmail.com>"]
+description = "SDK for accessing StooKV datastore."
+#readme = "README.md"
+#repository = "https://github.com/rust-lang/cargo"
+license-file = "./MIT-LICENSE"
+keywords = ["stoo", "stookv", "storus", "sto", "kv"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
