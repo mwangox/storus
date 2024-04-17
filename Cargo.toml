@@ -8,6 +8,7 @@ description = "SDK for accessing StooKV datastore."
 #repository = "https://github.com/rust-lang/cargo"
 license-file = "./MIT-LICENSE"
 keywords = ["stoo", "stookv", "storus", "sto", "kv"]
+exclude = ["./src/main.rs", "./src/ca_cert.pem"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
