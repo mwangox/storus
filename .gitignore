@@ -1,0 +1,3 @@
+./src/ca_cert.pem
+./src/main.rs
+/target
