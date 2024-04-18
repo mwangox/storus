@@ -47,5 +47,5 @@
 //! ```
 
 
-mod stoo;
-mod stoo_config;
+pub mod stoo;
+pub mod stoo_config;
