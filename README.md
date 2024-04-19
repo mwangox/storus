@@ -10,7 +10,7 @@ when they want to use [StooKV](https://docs.rs/storus/0.1.1/storus) as their con
 
 ## Usage
 
-To use `storus`, include the dependency to your `Cargo.toml` as :
+To use `storus`, include the dependency in your `Cargo.toml` as :
 
 ```toml
 [dependencies]
@@ -18,6 +18,7 @@ storus = "0.1.1"
 ```
 
 Next, add this to your crate:
+
 
 ```rust
 use storus::stoo::Stoo;
