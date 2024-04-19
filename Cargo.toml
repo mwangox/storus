@@ -1,6 +1,6 @@
 [package]
 name = "storus"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Israel Mwangoka <israelmwangoka@hotmail.com>"]
 description = "SDK for accessing StooKV datastore."
