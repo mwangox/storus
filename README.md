@@ -6,6 +6,7 @@ when they want to use [StooKV](https://docs.rs/storus/0.1.1/storus) as their con
 
 [![Crates.io](https://img.shields.io/crates/v/storus.svg)](https://crates.io/crates/storus)
 [![Documentation](https://docs.rs/storus/badge.svg)](https://docs.rs/storus/0.1.1/storus)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](MIT-LICENSE)
 
 
 ## Usage
@@ -102,5 +103,5 @@ The project is licensed under [MIT license](LICENSE).
 ### Contribution
 
 Unless you explicitly state otherwise, any contribution intentionally submitted
-for inclusion in Storus by you, shall be licensed as MIT, without any additional
+for inclusion in `Storus` by you, shall be licensed as MIT, without any additional
 terms or conditions.
