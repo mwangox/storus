@@ -1,7 +1,7 @@
 # Storus
 
 A library that simplifies the life of rust developers by abstracting the low level communication protocols (REST/gRPC)
-when they want to use [StooKV](https://docs.rs/storus/0.1.1/storus) as their configurations management tool.
+when they want to use [StooKV](https://github.com/mwangox/stookv) as their configurations management tool.
 
 
 [![Crates.io](https://img.shields.io/crates/v/storus.svg)](https://crates.io/crates/storus)
