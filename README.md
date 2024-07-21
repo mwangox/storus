@@ -15,7 +15,7 @@ To use `storus`, include the dependency in your `Cargo.toml` as :
 
 ```toml
 [dependencies]
-storus = "0.1.1"
+storus = "0.1.3"
 ```
 
 Next, add this to your crate:
